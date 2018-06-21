@@ -5,6 +5,7 @@ A crash course in Javascript and p5.js intended to increase your capacity and cu
 
 [P5 docs](https://www.p5js.org) \
 [P5 code editor](https://www.alpha.editor.p5js.org)
+<a href="www.hifilorau.com">My Website.</a>
 
 ## Terminology:
 - Boolean: is it true or false. 
