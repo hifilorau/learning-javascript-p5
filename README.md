@@ -4,7 +4,7 @@ A crash course in Javascript and p5.js intended to increase your capacity and cu
 ## Important links for this class:
 
 [P5 docs](https://www.p5js.org) \
-[P5 code editor](https://www.alpha.editor.p5js.org)
+[P5 code editor](https://alpha.editor.p5js.org/)
 
 
 ## Terminology:
