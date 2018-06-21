@@ -24,4 +24,5 @@ A crash course in Javascript and p5.js intended to increase your capacity and cu
 3. Debugging is of the utmost importance. Console.log is your best friend (for now). 
 4. Nice function, why isn’t it doing anything?
 5. Now that I’m coding how do i wire it all together to work in a browser window?
+6. Indexes always start at 0;
 
